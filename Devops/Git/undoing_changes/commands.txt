@@ -1,0 +1,7 @@
+1git config
+git remote rm origin
+git checkout filename
+git checkout
+git reset filename/--soft/--hard
+git revert -m commit id/fname
+

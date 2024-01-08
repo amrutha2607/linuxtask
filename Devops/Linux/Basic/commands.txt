@@ -1,0 +1,20 @@
+mkdir
+cd 
+cd ..
+touch
+pwd
+ls
+rmdir
+rm
+cat
+echo
+man
+whoiam
+clear
+history
+rm -r
+mkdir dir1 dir2...dirn
+mkdir -p dir/subdir/subdir2
+ls -l
+ls -a
+
