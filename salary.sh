@@ -10,4 +10,7 @@ then
 elif [ $sal -gt 25000 ];
 then
 	echo "10% tax"
+elif [ $sal -eq 10000 ];
+then
+	echo "2% tax"
 fi

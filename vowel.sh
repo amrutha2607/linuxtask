@@ -8,6 +8,11 @@ case $cha in
 	'i') echo "vowel";;
 	'o') echo "vowel";;
 	'u') echo "vowel";;
+	'A') echo "vowel";;
+	'E') echo "vowel";;
+	'I') echo "vowel";;
+	'O') echo "vowel";;
+	'U') echo "vowel";;
 	*)
 		echo "not vowel";;
 esac
