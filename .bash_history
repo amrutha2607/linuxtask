@@ -55,3 +55,31 @@ nano commands.txt
 cat commands.txt
 cd ..
 ls
+cd Devops
+ls
+cd Linux
+ls
+cat File_Management
+cat File_Mangement
+cd File_Mangement
+ls
+cat commands.txt
+cd ..
+git init
+sudo yum install git
+git init
+git config user.name "amrutha"
+git config user.email "amruthavarshinibala45@gmail.com"
+git add .
+git commit -m "add files"
+git init
+git remote add origin https://github.com/amrutha2607/linuxtask.git
+git push origin master
+ls
+cd Devops
+ls
+cd Git
+ls
+cd ..
+cd Linux
+ls
